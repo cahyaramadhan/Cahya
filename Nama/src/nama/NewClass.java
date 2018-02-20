@@ -12,6 +12,11 @@ package nama;
  */
 public class NewClass {
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("CAHYAAAAA");
+=======
+        System.out.println("Gawa");
+        System.out.println("Gawa Fadly");
+>>>>>>> TambahClass
     }
 }
