@@ -14,9 +14,12 @@ public class NewClass {
     public static void main(String[] args) {
 <<<<<<< HEAD
         System.out.println("CAHYAAAAA");
+<<<<<<< HEAD
 =======
         System.out.println("Gawa");
         System.out.println("Gawa Fadly");
 >>>>>>> TambahClass
+=======
+>>>>>>> Cahya_Baru
     }
 }
