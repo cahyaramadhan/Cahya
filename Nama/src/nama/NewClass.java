@@ -20,6 +20,9 @@ public class NewClass {
         System.out.println("Gawa Fadly");
 >>>>>>> TambahClass
 =======
+        System.out.println("CAHYAAAAA");
+        System.out.println("CAHYAAAAA");
+        System.out.println("CAHYAAAAA");
 >>>>>>> Cahya_Baru
     }
 }
