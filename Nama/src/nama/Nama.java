@@ -16,8 +16,7 @@ public class Nama {
      */
     public static void main(String[] args) {
 
-        // TODO code application logic here
-        System.out.println("Hai Cahya");
+
 
 
         long totalMiliseconds = System.currentTimeMillis(); //waktu diambil dari mili seconds
